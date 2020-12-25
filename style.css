@@ -59,3 +59,10 @@ body{
 .visual{
     opacity: 1 !important;
 }
+
+@media only screen and (max-width: 768px) {
+
+    body {
+        width: 100%;
+    }
+}
