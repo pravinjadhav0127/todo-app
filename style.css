@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+
+body{
+    background-color:#c1c1c1;
+    text-align: center;
+    width: 50%;
+    margin: 2em auto;
+}
+
+#heading{
+    font-family: 'Bungee Shade', cursive;
+    color: black;
+}
+
+#container{
+    text-align: center;
+   border-style: solid;
+   border-color:black;
+   border-radius: 2em;
+   margin: auto;
+}
+
+.todo-list{
+    margin: 0 auto;
+}
+
+#list{
+    padding: 1em;
+    display: inline;
+    list-style-type: none;
+    font-size: 1.4em;
+    display: inline;
+    margin: 0 auto;
+}
+
+.mycheck{
+    padding: 0.2em;
+    /* text-align: left; */
+    margin: 0 auto;
+}
+
+#add{
+    margin: 1em;
+    /* color:white;
+    background-color: red;  */
+    
+}
+#remove{
+    margin: 0.5em;
+    /* color:white;
+    background-color:blue;  */
+}
+#removeall{
+    margin: 0.5em;
+    /* color:white;
+    background-color:gold;  */
+}
+
+.visual{
+    opacity: 1 !important;
+}
